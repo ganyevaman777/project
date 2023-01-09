@@ -1,0 +1,244 @@
+.Header {
+    width: 500px;
+    height: 835px;
+    background-color: #EEDEDE;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_line {
+    width: 400px;
+    height: 1px;
+    background-color: #0C3010;
+}
+
+
+
+
+
+
+
+
+
+
+.header_1 {
+    width: 500px;
+    height: 123px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: right;
+    justify-content: right;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 46px;
+    color: #0C3010;
+}
+
+.x {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 460px;
+    top: 10px;
+    text-align: center;
+    position: relative;
+    margin-top: 14px;
+}
+
+.x1 {
+    width: 21px;
+    height: 4px;
+    background-color: #0C3010;
+    border-radius: 2px;
+    transform: rotate(135deg);
+    margin-right: 5px; 
+    position: absolute;
+}
+
+.x2 {
+    width: 21px;
+    height: 4px;
+    background-color: #0C3010;
+    border-radius: 2px;
+    transform: rotate(45deg);
+}
+
+.your {
+    width: 500px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+.header_2 {
+    width: 402px;
+    height: 564px;
+}
+
+.product {
+    width: 402px;
+    height: 174px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.product_1 {
+    width: 402px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product_11 {
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+}
+
+.product_12 {
+    width: 297px;
+    height: 73px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+}
+
+.product_121 {
+    width: 297px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C3010;
+}
+
+.product_122 {
+    width: 120px;
+    height: 36px;
+    background-color: #EEDEDE;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #0C3010;
+}
+
+.product_1221 {
+    width: 72px;
+    height: 18px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #0C3010;
+}
+
+
+.product_2 {
+    width: 80px;
+    height: 44px;
+    background-color: #0C3010;
+    border-radius: 30px ;
+    color: #fff;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.header_3 {
+    width: 406px;
+    height: 146px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_31 {
+    width: 406px;
+    height: 90px;
+    position: relative;
+    top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_311 {
+    width: 403px;
+    height: 24px;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C3010;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_button {
+    width: 400px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #EEDEDE;
+    background-color: #0C3010;
+    border-radius: 30px;
+}
+
+
+
+
+
